@@ -1,2 +1,3 @@
-details to maintain general instructions and notes about the Medical Appointment Booking website
+# grihf-frontend_capstone_starter_code
+grihf-frontend_capstone_starter_code
 
